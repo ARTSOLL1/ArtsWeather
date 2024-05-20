@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="darker_gray">#A9A9A9</color>
+    <color name="clear_sky_text_color">#000000</color>
+    <color name="few_clouds_text_color">#000000</color>
+    <color name="scattered_clouds_text_color">#FFFFFF</color>
+    <color name="broken_clouds_text_color">#000000</color>
+    <color name="rain_text_color">#FFFFFF</color>
+    <color name="thunderstorm_text_color">#FFFFFF</color>
+    <color name="snow_text_color">#FFFFFF</color>
+    <color name="mist_text_color">#FFFFFF</color>
+    <color name="default_text_color">#FFFFFF</color>
+</resources>
